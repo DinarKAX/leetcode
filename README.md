@@ -1,12 +1,11 @@
-# Привет! Я Валиев Динар
-Кратко О себе:
+# Hello! I am Valiev Dinar
+Briefly About yourself:
 
-Студент 3 курса КНИТУ и School 21(Сбер), специализация -- Data Science.
+3rd year student of KNRTU and School 21 (Sber), specialization - Data Science.
 
-Работал в ПАО "Татнефть"(Data Analyst)
+Worked at PJSC Tatneft (Data Analyst)
 
-Активный участник ML-хакатонов
-
+An active participant in ML hackathons
 ## LeetCode статистика
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/valiefff)](https://leetcode.com/valiefff)
