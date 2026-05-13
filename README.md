@@ -1,4 +1,4 @@
-# Hello! I am Valiev Dinar
+# Hello! I am Dinar
 Briefly About yourself:
 
 🧑‍🎓3rd year student of KNRTU and School 21 (Sber), specialization - Data Science.
