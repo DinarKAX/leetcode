@@ -6,6 +6,6 @@ Briefly About yourself:
 🧑‍🎓Worked at PJSC Tatneft (Data Analyst)
 
 🧑‍🎓An active participant in ML hackathons
-## LeetCode статистика
+
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/valiefff)](https://leetcode.com/valiefff)
