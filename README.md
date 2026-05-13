@@ -2,4 +2,4 @@
 
 ## LeetCode статистика
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=valiefff&theme=dark)](https://leetcode.com/valiefff/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Chovieti)](https://leetcode.com/valiefff)
