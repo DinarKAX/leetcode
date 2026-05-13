@@ -2,4 +2,4 @@
 
 ## LeetCode статистика
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Chovieti)](https://leetcode.com/valiefff)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/valiefff)](https://leetcode.com/valiefff)
