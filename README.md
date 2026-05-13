@@ -2,4 +2,4 @@
 
 ## LeetCode статистика
 
-![LeetCode Solved](https://leetcode-badge.vercel.app/api/solved/valiefff)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=valiefff&theme=dark)](https://leetcode.com/valiefff/)
